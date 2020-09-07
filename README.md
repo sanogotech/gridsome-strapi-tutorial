@@ -2,6 +2,8 @@
 
 This repo was built for a YouTube tutorial.
 
+https://youtu.be/vB6rmWCmANA
+
 ## Running Locally
 
 **Front-end:**
